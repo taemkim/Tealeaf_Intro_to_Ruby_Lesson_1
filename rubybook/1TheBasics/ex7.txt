@@ -1,1 +1,0 @@
-A closing bracket ")" was used before an open curly bracket "{" was closed with a closing curly bracket "}".

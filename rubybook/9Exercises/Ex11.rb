@@ -1,1 +1,0 @@
-# I like www.ruby-doc.org/core because I like official sources until I become good enough to find good 3rd party ones.

@@ -1,4 +1,0 @@
-First case - x prints to 3.
-Second case - an error is shown.
-
-X is not available as it is outside the scope.
