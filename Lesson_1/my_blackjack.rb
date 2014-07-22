@@ -102,7 +102,7 @@ puts " "
 system 'clear'
 
 line_spacing_open
-puts "Hello, Tae. Are you ready for some Blackjack? Here are your cards."
+puts "Hello, #{player_name}. Are you ready for some Blackjack? Here are your cards."
 puts "(Dealer deals cards...)"
 line_spacing_close
 
